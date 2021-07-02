@@ -38,6 +38,12 @@ https://youtu.be/37dDiT4gG1g
 https://youtu.be/pV-LkWzBzOk
 
 
+
+![image](https://user-images.githubusercontent.com/71180644/124307187-69bb4e80-dba2-11eb-96ad-788bc8d5f0df.png)
+
+
+
+
 #5 회고
 
 -우선 팀장으로 맡은 역활은 고양이가 영역동물이라는 것을 이용해 공공데이터 포털에서 제공하는 고양이 사진 data및 gps를 이용해 본인 근처로 구자체에서 보호중인 고양이들의 대략적인 위치 출력,
